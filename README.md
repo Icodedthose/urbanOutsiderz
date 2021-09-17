@@ -1,3 +1,7 @@
+Website: https://urbanoutsiderz.xyz
+Twitter: https://twitter.com/urbanOutsiderz
+Discord: https://discord.gg/ncGWJ4gjYY
+
 ### GREETINGS OUTSIDERZ! THIS WAS FORKED FROM BORINGBANANAS.CO AND TWEAKED TO BE MADE OUR OWN, CHECK THEM OUT! --> https://discord.gg/nutXRSKYHb.
 # CHANGES:
  
